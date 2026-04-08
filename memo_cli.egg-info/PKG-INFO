@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: memo-cli
+Version: 0.1.0
+Summary: A CLI tool to manage shortcuts and help you memorize them.
+Author: Stephen Breen
+Requires-Dist: typer[all]
+Requires-Dist: rich
+Requires-Dist: tinydb
+Requires-Dist: pydantic

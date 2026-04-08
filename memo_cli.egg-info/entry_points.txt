@@ -1,0 +1,2 @@
+[console_scripts]
+memo = memo_cli.main:app
