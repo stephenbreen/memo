@@ -8,6 +8,7 @@ from rich.console import Console
 from rich.table import Table
 from rich.prompt import Prompt, Confirm
 from typing import Optional, List
+from datetime import datetime
 from memo_cli.storage import Database
 
 app = typer.Typer(help="Memo-CLI: Shortcut recall and tracking tool.")
